@@ -54,20 +54,10 @@ This project helped me understand the implementation details behind modern LLMs,
 - How GPT-style models generate text one token at a time.
 
 ## Tech Stack
-
 - Python
 - PyTorch
 
-## Future Improvements
-
-- Top-k / Top-p sampling
-- Temperature scaling
-- Model checkpointing
-- Byte Pair Encoding (BPE) tokenizer
-- LoRA fine-tuning
-- Hugging Face compatibility
-
 ## References
 
-- Andrej Karpathy — Let's Build GPT
+- Andrej Karpathy Let's Build GPT
 - Attention Is All You Need (2017)
